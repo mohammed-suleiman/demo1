@@ -1,1 +1,3 @@
 today i'm learning Git!
+i'm here 
+i made some changes
